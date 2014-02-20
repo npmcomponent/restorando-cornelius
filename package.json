@@ -1,0 +1,19 @@
+{
+  "name": "restorando-cornelius",
+  "description": "Cohort Visualization component",
+  "version": "0.1.0",
+  "keywords": [
+    "cohort",
+    "cornelius",
+    "chart",
+    "cohort chart",
+    "cohort visualization",
+    "restorando"
+  ],
+  "main": "index.js",
+  "styles": [
+    "src/cornelius.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
